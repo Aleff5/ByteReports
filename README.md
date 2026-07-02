@@ -12,9 +12,9 @@ Aplicativo desktop para diagnóstico de hardware Windows — simples, didático 
 ## 🔗 Módulos e Repositórios Espelhados
 Para fins de auditoria e avaliação do código-fonte e documentação histórica, os módulos integrados podem ser acessados individualmente nos links privados abaixo:
 
-*  **[Módulo de Documentação Histórica](https://github.com/Aleff5/ByteReports-documentos-bkp)**
-*  **[Interface Gráfica - Frontend React](https://github.com/Aleff5/ByteReports-frontend-bkp)**
-*  **[Motor de Diagnóstico - Backend Python](https://github.com/Aleff5/ByteReports-backend-bkp)**
+*  **[Módulo de Documentação Histórica](https://github.com/Aleff5/ByteReports/tree/main/Documenta%C3%A7%C3%A3o)**
+*  **[Interface Gráfica - Frontend React](https://github.com/Aleff5/ByteReports/tree/main/ByteReports-frontend)**
+*  **[Motor de Diagnóstico - Backend Python](https://github.com/Aleff5/ByteReports/tree/main/ByteReports-backend)**
 *  **[Configurações de Workflow (.github)](https://github.com/Aleff5/github-bkp)**
 
 ---
